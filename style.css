@@ -1,0 +1,36 @@
+@font-face {
+    font-family: psb;
+    src: url("https://nkpl.namishkumar.in/Product_Sans_Bold.ttf");
+  }
+  @font-face {
+    font-family: psr;
+    src: url("https://nkpl.namishkumar.in/psr.ttf");
+  }
+body {
+    font-family: psr;
+    text-align: center;
+}  
+.profile {
+    border-radius: 360px;
+}
+p {
+    font-size: 22px;
+    font-weight: lighter;
+}
+button {
+    padding: 15px;
+    width: 12.5em;
+    font-size: 20px;
+    background-color: #ff0077;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-family: psr;
+}
+h1 {
+    font-family: psb; 
+}
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
