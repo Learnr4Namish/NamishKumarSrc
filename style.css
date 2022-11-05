@@ -19,6 +19,9 @@ p {
     font-size: 22px;
     font-weight: lighter;
 }
+a {
+    color:white;
+}
 button {
     padding: 15px;
     width: 12.5em;
