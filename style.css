@@ -9,6 +9,8 @@
 body {
     font-family: psr;
     text-align: center;
+    background-color:#2f2f2f;
+    color:white;
 }  
 .profile {
     border-radius: 360px;
